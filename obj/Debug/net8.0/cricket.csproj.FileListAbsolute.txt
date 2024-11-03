@@ -1,0 +1,14 @@
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/cricket/bin/Debug/net8.0/cricket
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/cricket/bin/Debug/net8.0/cricket.deps.json
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/cricket/bin/Debug/net8.0/cricket.runtimeconfig.json
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/cricket/bin/Debug/net8.0/cricket.dll
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/cricket/bin/Debug/net8.0/cricket.pdb
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/cricket/obj/Debug/net8.0/cricket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/cricket/obj/Debug/net8.0/cricket.AssemblyInfoInputs.cache
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/cricket/obj/Debug/net8.0/cricket.AssemblyInfo.cs
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/cricket/obj/Debug/net8.0/cricket.csproj.CoreCompileInputs.cache
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/cricket/obj/Debug/net8.0/cricket.dll
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/cricket/obj/Debug/net8.0/refint/cricket.dll
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/cricket/obj/Debug/net8.0/cricket.pdb
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/cricket/obj/Debug/net8.0/cricket.genruntimeconfig.cache
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/cricket/obj/Debug/net8.0/ref/cricket.dll
